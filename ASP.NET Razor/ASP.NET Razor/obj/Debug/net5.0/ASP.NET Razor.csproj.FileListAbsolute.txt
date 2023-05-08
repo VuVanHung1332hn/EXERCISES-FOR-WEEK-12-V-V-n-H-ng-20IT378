@@ -1,0 +1,47 @@
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\appsettings.Development.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\appsettings.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\ASP.NET Razor.exe
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\ASP.NET Razor.deps.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\ASP.NET Razor.runtimeconfig.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\ASP.NET Razor.runtimeconfig.dev.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\ASP.NET Razor.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\ASP.NET Razor.pdb
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\ASP.NET Razor.Views.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\bin\Debug\net5.0\ASP.NET Razor.Views.pdb
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.csproj.AssemblyReference.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.GeneratedMSBuildEditorConfig.editorconfig
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.AssemblyInfoInputs.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.AssemblyInfo.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.csproj.CoreCompileInputs.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.MvcApplicationPartsAssemblyInfo.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.RazorAssemblyInfo.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.RazorAssemblyInfo.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\scopedcss\bundle\ASP.NET Razor.styles.css
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\staticwebassets\ASP.NET Razor.StaticWebAssets.Manifest.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\staticwebassets\ASP.NET Razor.StaticWebAssets.Pack.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\staticwebassets\msbuild.ASP.NET Razor.Microsoft.AspNetCore.StaticWebAssets.props
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\staticwebassets\msbuild.build.ASP.NET Razor.props
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Razor.props
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ASP.NET Razor.props
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.TagHelpers.input.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.TagHelpers.output.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.RazorCoreGenerate.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Pages\FirstPage.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.RazorTargetAssemblyInfo.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.RazorTargetAssemblyInfo.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.Views.pdb
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\refint\ASP.NET Razor.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.pdb
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.genruntimeconfig.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ref\ASP.NET Razor.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\ASP.NET Razor.csproj.CopyComplete
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Pages\SecordPage.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Pages\ThirdPage.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Pages\Dichvu\Dichvu1.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Pages\Dichvu\Dichvu2.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Pages\Dichvu\Index.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Areas\Product\Pages\Index.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Areas\Product\Pages\Sanphammoi.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Areas\User\Pages\Index.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor\ASP.NET Razor\obj\Debug\net5.0\Razor\Areas\User\Pages\Login.cshtml.g.cs
